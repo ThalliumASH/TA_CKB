@@ -1,0 +1,13 @@
+{
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "rightToLeft": false,
+  "readableLineLength": true,
+  "spellcheck": false,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "Z_source"
+}

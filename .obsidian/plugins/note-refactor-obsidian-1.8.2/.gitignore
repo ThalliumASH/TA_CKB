@@ -1,0 +1,15 @@
+# Intellij
+*.iml
+.idea
+*.DS_Store
+# npm
+node_modules
+
+# build
+main.js
+*.js.map
+note-refactor*.zip
+dist/
+coverage/
+.nyc_output/
+test-vault/
